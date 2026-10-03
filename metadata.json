@@ -1,0 +1,8 @@
+{
+  "name": "Apex Fuel & Fitness",
+  "description": "Clean, performance-engineered workout and nutrition tracker with intelligent Gym Bro AI coaching, macro intelligence, and recovery analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
