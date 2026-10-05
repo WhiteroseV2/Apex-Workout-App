@@ -4,6 +4,8 @@ A mobile fitness app for workout tracking, nutrition logging, recovery insights,
 
 This repository ships native Android and iOS applications through [Capacitor](https://capacitorjs.com/). The React UI is bundled into each native app at build time; the production target is not a hosted web application.
 
+I used AI tools (primarily Claude/GPT) throughout this project to speed up boilerplate, debug issues, and explore architecture decisions. All code was reviewed, tested, and understood before committing. It's a genuinely useful part of how I build things now and I think being upfront about that is more honest than pretending otherwise.
+
 ## Features
 
 - Daily calorie and macro tracking
