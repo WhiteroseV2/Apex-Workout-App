@@ -1,5 +1,5 @@
 import { GoogleGenAI, Type, Schema } from '@google/genai';
-import { WorkoutPlan } from '../data';
+import {WorkoutPlan} from '../types/workout';
 
 const ai = new GoogleGenAI({
   apiKey: process.env.GEMINI_API_KEY,
